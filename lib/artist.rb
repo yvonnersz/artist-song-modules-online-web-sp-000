@@ -1,5 +1,6 @@
 require_relative '../lib/concerns/memorable'
 require_relative '../lib/concerns/findable.rb'
+require_relative '../lib/concerns/paramable.rb'
 
 
 require 'pry'
